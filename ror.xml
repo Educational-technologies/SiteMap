@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for https://quizacer.com/SiteMap</title>
+  <link>https://quizacer.com/SiteMap</link>
+<item>
+     <link>https://quizacer.com/finalgradecalc</link>
+     <title>Final Grade Calculator</title>
+     <description>Final Grade Calculator</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://quizacer.com/cardnotfound</link>
+     <title>Card Not Found</title>
+     <description>Card Not Found</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://quizacer.com/flashcard</link>
+     <title>Flash Card</title>
+     <description>Flash Card</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://quizacer.com/login</link>
+     <title>QuizAcer - Login</title>
+     <description>QuizAcer - Login</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://quizacer.com/register</link>
+     <title>QuizAcer - Login</title>
+     <description>QuizAcer - Login</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://quizacer.com/SiteMap</link>
+     <title>QuizAcer Site Map</title>
+     <description>QuizAcer Site Map</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>https://quizacer.com/navbar</link>
+     <title>QuizAcer.com</title>
+     <description>QuizAcer.com</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
